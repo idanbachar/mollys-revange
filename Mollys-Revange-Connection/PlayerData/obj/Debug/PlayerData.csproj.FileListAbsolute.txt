@@ -1,0 +1,16 @@
+C:\Users\idan_\Documents\Visual Studio 2017\Projects\Molly's Revange\Connection\PlayerData\PlayerData\bin\Debug\PlayerData.dll
+C:\Users\idan_\Documents\Visual Studio 2017\Projects\Molly's Revange\Connection\PlayerData\PlayerData\bin\Debug\PlayerData.pdb
+C:\Users\idan_\Documents\Visual Studio 2017\Projects\Molly's Revange\Connection\PlayerData\PlayerData\obj\Debug\PlayerData.csprojResolveAssemblyReference.cache
+C:\Users\idan_\Documents\Visual Studio 2017\Projects\Molly's Revange\Connection\PlayerData\PlayerData\obj\Debug\PlayerData.dll
+C:\Users\idan_\Documents\Visual Studio 2017\Projects\Molly's Revange\Connection\PlayerData\PlayerData\obj\Debug\PlayerData.pdb
+C:\Users\idan_\Dropbox\Molly's Revange\Connection\PlayerData\PlayerData\bin\Debug\PlayerData.dll
+C:\Users\idan_\Dropbox\Molly's Revange\Connection\PlayerData\PlayerData\bin\Debug\PlayerData.pdb
+C:\Users\idan_\Dropbox\Molly's Revange\Connection\PlayerData\PlayerData\obj\Debug\PlayerData.csprojResolveAssemblyReference.cache
+C:\Users\idan_\Dropbox\Molly's Revange\Connection\PlayerData\PlayerData\obj\Debug\PlayerData.dll
+C:\Users\idan_\Dropbox\Molly's Revange\Connection\PlayerData\PlayerData\obj\Debug\PlayerData.pdb
+C:\Users\idana\OneDrive\Documents\projects\mollys-revange-main\Mollys-Revange-Connection\PlayerData\bin\Debug\PlayerData.dll
+C:\Users\idana\OneDrive\Documents\projects\mollys-revange-main\Mollys-Revange-Connection\PlayerData\bin\Debug\PlayerData.pdb
+C:\Users\idana\OneDrive\Documents\projects\mollys-revange-main\Mollys-Revange-Connection\PlayerData\obj\Debug\PlayerData.csproj.AssemblyReference.cache
+C:\Users\idana\OneDrive\Documents\projects\mollys-revange-main\Mollys-Revange-Connection\PlayerData\obj\Debug\PlayerData.csproj.CoreCompileInputs.cache
+C:\Users\idana\OneDrive\Documents\projects\mollys-revange-main\Mollys-Revange-Connection\PlayerData\obj\Debug\PlayerData.dll
+C:\Users\idana\OneDrive\Documents\projects\mollys-revange-main\Mollys-Revange-Connection\PlayerData\obj\Debug\PlayerData.pdb
