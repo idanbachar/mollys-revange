@@ -32,3 +32,12 @@ C:\Users\idana\OneDrive\Documents\projects\mollys-revange-main\Mollys-Revange-Se
 C:\Users\idana\OneDrive\Documents\projects\mollys-revange-main\Mollys-Revange-Server\Server\obj\Debug\Server.csproj.Up2Date
 C:\Users\idana\OneDrive\Documents\projects\mollys-revange-main\Mollys-Revange-Server\Server\obj\Debug\Server.exe
 C:\Users\idana\OneDrive\Documents\projects\mollys-revange-main\Mollys-Revange-Server\Server\obj\Debug\Server.pdb
+C:\Users\idana\OneDrive\Documents\projects\idanbachar\mollys-revange\Mollys-Revange-Server\Server\bin\Debug\Server.exe.config
+C:\Users\idana\OneDrive\Documents\projects\idanbachar\mollys-revange\Mollys-Revange-Server\Server\bin\Debug\Server.exe
+C:\Users\idana\OneDrive\Documents\projects\idanbachar\mollys-revange\Mollys-Revange-Server\Server\bin\Debug\Server.pdb
+C:\Users\idana\OneDrive\Documents\projects\idanbachar\mollys-revange\Mollys-Revange-Server\Server\bin\Debug\PlayerData.pdb
+C:\Users\idana\OneDrive\Documents\projects\idanbachar\mollys-revange\Mollys-Revange-Server\Server\obj\Debug\Server.csproj.AssemblyReference.cache
+C:\Users\idana\OneDrive\Documents\projects\idanbachar\mollys-revange\Mollys-Revange-Server\Server\obj\Debug\Server.csproj.CoreCompileInputs.cache
+C:\Users\idana\OneDrive\Documents\projects\idanbachar\mollys-revange\Mollys-Revange-Server\Server\obj\Debug\Server.csproj.Up2Date
+C:\Users\idana\OneDrive\Documents\projects\idanbachar\mollys-revange\Mollys-Revange-Server\Server\obj\Debug\Server.exe
+C:\Users\idana\OneDrive\Documents\projects\idanbachar\mollys-revange\Mollys-Revange-Server\Server\obj\Debug\Server.pdb
